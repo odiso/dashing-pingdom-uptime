@@ -1,7 +1,7 @@
 dashing-pingdom-uptime
 ======================
 
-Dashing widget to display Pingdom Uptime of selected check
+Dashing (http://shopify.github.io/dashing/) widget to display Pingdom Uptime of selected check
 
 I'm sorry if the code is not very well, but I had never made ruby and I'm not a developer, so be indulgent with me
 

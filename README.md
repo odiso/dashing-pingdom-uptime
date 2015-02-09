@@ -59,7 +59,7 @@ This widget was made by <a href="http://blog.admin-linux.org" target="_blank">Pi
 
 This widget was inspired by this https://gist.github.com/jwalton/6625777
 
-Pinddom is a trademard https://www.pingdom.com/
+Pingdom is a trademark https://www.pingdom.com/
 
 Licence
 =======

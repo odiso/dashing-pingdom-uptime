@@ -55,7 +55,7 @@ Appearance
 Contributor
 ===========
 
-This widget was made by <a href="http://blog.admin-linux.org" target="_blank">Pierre-Yves Dubreucq</a> with the support of <a href="http://www.odiso.com/" target="_blank">Odiso</a>
+This widget was made by <a href="http://blog.admin-linux.org" target="_blank">Pierre-Yves Dubreucq</a> with the support of <a href="https://www.odiso.com/" target="_blank">Odiso</a>
 
 This widget was inspired by this https://gist.github.com/jwalton/6625777
 
